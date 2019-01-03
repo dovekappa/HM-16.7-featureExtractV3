@@ -1,0 +1,8 @@
+﻿'svm-train.exe' (Win32): Loaded 'C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7_20180331\build\Release\svm-train.exe'. Symbols loaded.
+'svm-train.exe' (Win32): Loaded 'C:\WINDOWS\SysWOW64\ntdll.dll'. Symbols loaded.
+'svm-train.exe' (Win32): Loaded 'C:\WINDOWS\SysWOW64\kernel32.dll'. Symbols loaded.
+'svm-train.exe' (Win32): Loaded 'C:\WINDOWS\SysWOW64\KernelBase.dll'. Symbols loaded.
+'svm-train.exe' (Win32): Loaded 'C:\WINDOWS\SysWOW64\msvcr120.dll'. Cannot find or open the PDB file.
+The thread 0x3b8c has exited with code 0 (0x0).
+The thread 0x1ad0 has exited with code 0 (0x0).
+The program '[14768] svm-train.exe' has exited with code 0 (0x0).

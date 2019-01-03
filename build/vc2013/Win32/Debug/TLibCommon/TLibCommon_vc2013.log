@@ -1,0 +1,89 @@
+﻿Build started 2018/11/17 16:31:48.
+     1>Project "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\vc2013\TLibCommon_vc2013.vcxproj" on node 3 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\..\source\Lib\\" /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\\" /Fd"C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ..\..\source\Lib\libmd5\libmd5.c
+         libmd5.c
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\..\source\Lib\\" /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\\" /Fd"C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\source\Lib\TLibCommon\ContextModel.cpp ..\..\source\Lib\TLibCommon\ContextModel3DBuffer.cpp ..\..\source\Lib\TLibCommon\Debug.cpp ..\..\source\Lib\TLibCommon\SEI.cpp ..\..\source\Lib\TLibCommon\svm.cpp ..\..\source\Lib\TLibCommon\TComBitStream.cpp ..\..\source\Lib\TLibCommon\TComCABACTables.cpp ..\..\source\Lib\TLibCommon\TComChromaFormat.cpp ..\..\source\Lib\TLibCommon\TComDataCU.cpp ..\..\source\Lib\TLibCommon\TComInterpolationFilter.cpp ..\..\source\Lib\TLibCommon\TComLoopFilter.cpp ..\..\source\Lib\TLibCommon\TComMotionInfo.cpp ..\..\source\Lib\TLibCommon\TComPattern.cpp ..\..\source\Lib\TLibCommon\TComPic.cpp ..\..\source\Lib\TLibCommon\TComPicSym.cpp ..\..\source\Lib\TLibCommon\TComPicYuv.cpp ..\..\source\Lib\TLibCommon\TComPicYuvMD5.cpp ..\..\source\Lib\TLibCommon\TComPrediction.cpp ..\..\source\Lib\TLibCommon\TComRdCost.cpp ..\..\source\Lib\TLibCommon\TComRdCostWeightPrediction.cpp ..\..\source\Lib\TLibCommon\TComRom.cpp ..\..\source\Lib\TLibCommon\TComSampleAdaptiveOffset.cpp ..\..\source\Lib\TLibCommon\TComSlice.cpp ..\..\source\Lib\TLibCommon\TComTrQuant.cpp ..\..\source\Lib\TLibCommon\TComTU.cpp ..\..\source\Lib\TLibCommon\TComWeightPrediction.cpp ..\..\source\Lib\TLibCommon\TComYuv.cpp ..\BaggedTrees\bt_functions.cpp ..\BaggedTrees\functions.cpp ..\BaggedTrees\INDdata.cpp ..\BaggedTrees\LogStream.cpp ..\BaggedTrees\SplitInfo.cpp ..\BaggedTrees\Tree.cpp ..\BaggedTrees\TreeNode.cpp
+         TreeNode.cpp
+         Tree.cpp
+         SplitInfo.cpp
+         LogStream.cpp
+         INDdata.cpp
+         functions.cpp
+         bt_functions.cpp
+         TComYuv.cpp
+         TComWeightPrediction.cpp
+         TComTU.cpp
+         TComTrQuant.cpp
+         TComSlice.cpp
+         TComSampleAdaptiveOffset.cpp
+         TComRom.cpp
+         TComRdCostWeightPrediction.cpp
+         TComRdCost.cpp
+         TComPrediction.cpp
+         TComPicYuvMD5.cpp
+         TComPicYuv.cpp
+         TComPicSym.cpp
+         Generating Code...
+         Compiling...
+         TComPic.cpp
+         TComPattern.cpp
+         TComMotionInfo.cpp
+         TComLoopFilter.cpp
+         TComInterpolationFilter.cpp
+         TComDataCU.cpp
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(3587): warning C4244: 'argument' : conversion from 'Double' to 'float', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(3588): warning C4244: 'argument' : conversion from 'Double' to 'float', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(3589): warning C4244: 'argument' : conversion from 'Double' to 'float', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(3590): warning C4244: 'argument' : conversion from 'Int' to 'float', possible loss of data
+         TComChromaFormat.cpp
+         TComCABACTables.cpp
+         TComBitStream.cpp
+         svm.cpp
+         SEI.cpp
+         Debug.cpp
+         ContextModel3DBuffer.cpp
+         ContextModel.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\TLibCommon.lib" /NOLOGO "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\libmd5.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\ContextModel.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\ContextModel3DBuffer.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\Debug.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\SEI.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\svm.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\TComBitStream.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\TComCABACTables.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\TComChromaFormat.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\TComDataCU.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\TComInterpolationFilter.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\TComLoopFilter.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\TComMotionInfo.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\TComPattern.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\TComPic.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\TComPicSym.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\TComPicYuv.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\TComPicYuvMD5.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\TComPrediction.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\TComRdCost.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\TComRdCostWeightPrediction.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\TComRom.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\TComSampleAdaptiveOffset.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\TComSlice.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\TComTrQuant.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\TComTU.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\TComWeightPrediction.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\TComYuv.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\bt_functions.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\functions.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\INDdata.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\LogStream.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\SplitInfo.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\Tree.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\TreeNode.obj"
+         TLibCommon_vc2013.vcxproj -> C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibCommon\TLibCommon.lib
+     1>Done Building Project "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\vc2013\TLibCommon_vc2013.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:36.16

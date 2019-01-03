@@ -1,0 +1,1 @@
+Usage: bt_predict -p _test_set_ -r _attr_file_name_ [-m _model_file_name_] [-o _output_file_name_] [-c rms|roc] [-l log|nolog]

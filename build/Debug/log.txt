@@ -1,0 +1,49 @@
+Usage: bt_predict -p _test_set_ -r _attr_file_name_ [-m _model_file_name_] [-o _output_file_name_] [-c rms|roc] [-l log|nolog]
+Usage: bt_predict -p _test_set_ -r _attr_file_name_ [-m _model_file_name_] [-o _output_file_name_] [-c rms|roc] [-l log|nolog]
+Usage: bt_predict -p _test_set_ -r _attr_file_name_ [-m _model_file_name_] [-o _output_file_name_] [-c rms|roc] [-l log|nolog]
+Usage: bt_predict -p _test_set_ -r _attr_file_name_ [-m _model_file_name_] [-o _output_file_name_] [-c rms|roc] [-l log|nolog]
+Usage: bt_predict -p _test_set_ -r _attr_file_name_ [-m _model_file_name_] [-o _output_file_name_] [-c rms|roc] [-l log|nolog]
+Usage: bt_predict -p _test_set_ -r _attr_file_name_ [-m _model_file_name_] [-o _output_file_name_] [-c rms|roc] [-l log|nolog]
+
+-----
+bt_predict -p test.txt -r attributeFileTrainDataOfDepth1ForDT.txt -m alpha01.bin -o testResult.txt -c roc 
+
+Reading the attribute file: "attributeFileTrainDataOfDepth1ForDT.txt"
+6 attributes
+6 active attributes
+
+Reading the attribute file: ""
+
+Error: failed to open attribute file.
+Reading the attribute file: ""
+Reading the attribute file: "attributeFileTrainDataOfDepth1ForDT.txt"
+6 attributes
+6 active attributes
+
+Reading the test set: "test.txt"
+1 points in the test set, std. dev. of label values = 0
+
+Reading the attribute file: "attributeFileTrainDataOfDepth1ForDT.txt"
+6 attributes
+6 active attributes
+
+Reading the attribute file: "attributeFileTrainDataOfDepth1ForDT.txt"
+6 attributes
+6 active attributes
+
+Reading the attribute file: "attributeFileTrainDataOfDepth1ForDT.txt"
+6 attributes
+6 active attributes
+
+Reading the attribute file: "attributeFileTrainDataOfDepth1ForDT.txt"
+6 attributes
+6 active attributes
+
+Reading the attribute file: "attributeFileTrainDataOfDepth1ForDT.txt"
+6 attributes
+6 active attributes
+
+Reading the attribute file: "attributeFileTrainDataOfDepth1ForDT.txt"
+6 attributes
+6 active attributes
+

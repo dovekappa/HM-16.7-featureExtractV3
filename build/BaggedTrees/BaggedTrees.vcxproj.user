@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommand>C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7_20180331\build\Debug\BaggedTrees.exe</LocalDebuggerCommand>
+    <LocalDebuggerCommandArguments>-p test.txt -r attributeFileTrainDataOfDepth1ForDT.txt -m alpha01.bin -o testResult.txt -c roc</LocalDebuggerCommandArguments>
+    <LocalDebuggerWorkingDirectory>..\Debug</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>

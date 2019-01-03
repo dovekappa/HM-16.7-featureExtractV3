@@ -1,0 +1,31 @@
+﻿Build started 2018/11/17 16:36:46.
+     1>Project "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\vc2013\TLibEncoder_vc2013.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\..\source\Lib\\" /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibEncoder\\" /Fd"C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibEncoder\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\source\Lib\TLibEncoder\TEncCu.cpp
+         TEncCu.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibEncoder\TLibEncoder.lib" /NOLOGO "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibEncoder\NALwrite.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibEncoder\SEIEncoder.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibEncoder\SEIwrite.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibEncoder\SyntaxElementWriter.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibEncoder\TEncBinCoderCABAC.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibEncoder\TEncBinCoderCABACCounter.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibEncoder\TEncCavlc.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibEncoder\TEncCu.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibEncoder\TEncEntropy.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibEncoder\TEncGOP.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibEncoder\TEncPic.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibEncoder\TEncPreanalyzer.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibEncoder\TEncRateCtrl.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibEncoder\TEncSampleAdaptiveOffset.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibEncoder\TEncSbac.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibEncoder\TEncSearch.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibEncoder\TEncSlice.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibEncoder\TEncTop.obj"
+         "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibEncoder\WeightPredAnalysis.obj"
+         TLibEncoder_vc2013.vcxproj -> C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\\vc2013\Win32\Debug\TLibEncoder\TLibEncoder.lib
+     1>Done Building Project "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\vc2013\TLibEncoder_vc2013.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.01

@@ -1,0 +1,33 @@
+﻿Build started 2018/11/17 16:31:48.
+     1>Project "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\BaggedTrees\BaggedTrees.vcxproj" on node 8 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt bt_functions.cpp bt_predict.cpp functions.cpp INDdata.cpp LogStream.cpp SplitInfo.cpp Tree.cpp TreeNode.cpp
+         TreeNode.cpp
+         Tree.cpp
+         SplitInfo.cpp
+         LogStream.cpp
+         INDdata.cpp
+         functions.cpp
+         bt_predict.cpp
+     1>c:\users\dovel\documents\visual studio 2013\projects\hm-16.7-featureextractv2_20180720backup\build\baggedtrees\bt_predict.cpp(122): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\dovel\documents\visual studio 2013\projects\hm-16.7-featureextractv2_20180720backup\build\baggedtrees\bt_predict.cpp(123): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\dovel\documents\visual studio 2013\projects\hm-16.7-featureextractv2_20180720backup\build\baggedtrees\bt_predict.cpp(124): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\dovel\documents\visual studio 2013\projects\hm-16.7-featureextractv2_20180720backup\build\baggedtrees\bt_predict.cpp(125): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\dovel\documents\visual studio 2013\projects\hm-16.7-featureextractv2_20180720backup\build\baggedtrees\bt_predict.cpp(126): warning C4305: 'argument' : truncation from 'double' to 'float'
+         bt_functions.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\Debug\BaggedTrees.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\Debug\BaggedTrees.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\Debug\BaggedTrees.lib" /MACHINE:X86 Debug\bt_functions.obj
+         Debug\bt_predict.obj
+         Debug\functions.obj
+         Debug\INDdata.obj
+         Debug\LogStream.obj
+         Debug\SplitInfo.obj
+         Debug\Tree.obj
+         Debug\TreeNode.obj
+         BaggedTrees.vcxproj -> C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\Debug\BaggedTrees.exe
+     1>Done Building Project "C:\Users\dovel\Documents\Visual Studio 2013\Projects\HM-16.7-featureExtractV2_20180720backup\build\BaggedTrees\BaggedTrees.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.84
